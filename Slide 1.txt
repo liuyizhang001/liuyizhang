@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What is 5S in Chemical Manufacturing?</title>
+    <link rel="stylesheet" href="style.css"> </head>
+<body>
+    <h1>What is 5S?</h1>
+    <p>5S is a Japanese workplace organization methodology that can significantly improve safety, efficiency, and overall quality in your chemical manufacturing plant.</p>
+    <p>5S stands for five key steps, each with a specific focus:</p>
+    <ul>
+        <li>
+            <span class="s-icon">Seiri (Sort)</span> - Eliminate unnecessary items from the workplace.
+        </li>
+        <li>
+            <span class="s-icon">Seiton (Set in Order)</span> - Arrange necessary items for easy access and use.
+        </li>
+        <li>
+            <span class="s-icon">Seiso (Shine)</span> - Keep the workplace clean and tidy.
+        </li>
+        <li>
+            <span class="s-icon">Seiketsu (Standardize)</span> - Maintain a consistent organization system.
+        </li>
+        <li>
+            <span class="s-icon">Shitsuke (Sustain)</span> - Make 5S a continuous habit for everyone.
+        </li>
+    </ul>
+    <p>The next sections will delve deeper into each stage of 5S and its specific benefits for the chemical industry. </p>
+    <a href="index.html">Back to Homepage</a>
+</body>
+</html>
